@@ -1,0 +1,1 @@
+Para la ejecucion del proyecto se debe configurar la base de datos como se muestra en el archivo "HemisferioD_README.txt" y posteriormente ejecutar el scrip "scrip-db-prueba.sql" en la base de datos, luego de este par de pasos se pueden ejecutar las pruebas como se muestran en el primer archivo de configuracion (HemisferioD_README.txt).
